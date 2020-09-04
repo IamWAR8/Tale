@@ -1,0 +1,13 @@
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\bin\Debug\netcoreapp3.1\Tale.exe
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\bin\Debug\netcoreapp3.1\Tale.deps.json
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\bin\Debug\netcoreapp3.1\Tale.runtimeconfig.json
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\bin\Debug\netcoreapp3.1\Tale.runtimeconfig.dev.json
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\bin\Debug\netcoreapp3.1\Tale.dll
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\bin\Debug\netcoreapp3.1\Tale.pdb
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\obj\Debug\netcoreapp3.1\Tale.csprojAssemblyReference.cache
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\obj\Debug\netcoreapp3.1\Tale.AssemblyInfoInputs.cache
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\obj\Debug\netcoreapp3.1\Tale.AssemblyInfo.cs
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\obj\Debug\netcoreapp3.1\Tale.csproj.CoreCompileInputs.cache
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\obj\Debug\netcoreapp3.1\Tale.dll
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\obj\Debug\netcoreapp3.1\Tale.pdb
+C:\Users\wramirez\Documents\wramirez\Tale\Tale\Tale\obj\Debug\netcoreapp3.1\Tale.genruntimeconfig.cache
